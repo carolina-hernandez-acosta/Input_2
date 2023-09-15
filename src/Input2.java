@@ -33,9 +33,5 @@ public class Input2
         System.out.print("####################\n");
         System.out.print("####################\n");
 
-
-
-
-
     }
 }
